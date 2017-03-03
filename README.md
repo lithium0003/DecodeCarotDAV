@@ -1,6 +1,8 @@
 # DecodeCarotDAV
 Decode CarotDAV encrypted files on local
 
+![screen image](DecodeCarotDAV.jpg)
+
 ## Overview
 Encrypt/decrypt application compatible with [CarotDAV](http://www.rei.to/carotdav.html "CarotDAV") encrytion method
 
